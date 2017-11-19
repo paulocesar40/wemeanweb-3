@@ -1,0 +1,23 @@
+{
+  "name": "wemeanweb-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulocesar40/wemeanweb-3.git"
+  },
+  "author": "Paulo Rocha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulocesar40/wemeanweb-3/issues"
+  },
+  "homepage": "https://github.com/paulocesar40/wemeanweb-3#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "normalize.css": "^7.0.0"
+  }
+}
